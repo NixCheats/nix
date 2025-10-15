@@ -1,1 +1,1 @@
-
+https://github.com/NixCheats/nix/raw/refs/heads/main/pane.js
